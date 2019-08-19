@@ -13,6 +13,5 @@ public class ClubBouncer {
       else {
         System.out.println( "You are not allowed to eneter the club. " );
       }
-
     }
   }
