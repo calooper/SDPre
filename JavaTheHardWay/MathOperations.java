@@ -31,6 +31,5 @@ public class MathOperations {
     two = "house";
     both = one + two;
     System.out.println( both );
-
   }
 }
