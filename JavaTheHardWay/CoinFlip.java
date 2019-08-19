@@ -31,5 +31,6 @@ public class CoinFlip {
         }
       } while ( again.equals("Y") );
       System.out.println( "Final score: " + streak );
+        
   }
 }
