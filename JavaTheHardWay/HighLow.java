@@ -22,5 +22,6 @@ public class HighLow {
         guess = keyboard.nextInt();
       }
       System.out.println( "You guessed it! What are the odds! " );
+        
     }
 }
