@@ -27,6 +27,5 @@ public class AgeMessages {
       }
       if ( age >= 65 )
         System.out.println( "\tyou're are old enough to retire! ");
-
     }
   }
