@@ -16,6 +16,5 @@ public class RunningTotal {
     } while ( current != 0 );
 
     System.out.println( "The final total is: " + total );
-
     }
   }
