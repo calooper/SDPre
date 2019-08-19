@@ -45,7 +45,6 @@ public class BMICategories {
       }
       else {
         System.out.println( "very severely obese/\"morbidly\" obese " );
-      
       }
     }
   }
