@@ -16,8 +16,5 @@ public class ForgetFulMachine {
 
     System.out.println( "Is there anything ese you would like to say? ");
     keyboard.nextLine();
-
-
-
   }
 }
