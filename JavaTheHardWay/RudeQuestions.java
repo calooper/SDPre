@@ -25,7 +25,5 @@ public class RudeQuestions {
     System.out.println( "  and not per year! ");
     System.out.print( "Well, thanks for answering my rude questions, ");
     System.out.println( name + "." );
-
-
   }
 }

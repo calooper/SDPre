@@ -12,6 +12,5 @@ public class EscapeSequenceComments {
       System.out.println( "\\ // -=- \\ //" );
       System.out.println( "\\\\ \\\\\\ \\\\\\\\" );
       System.out.print( "I hope you understand \"escape sequences\" now.\n" );
-
     }
   }

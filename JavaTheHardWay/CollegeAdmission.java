@@ -25,6 +25,5 @@ public class CollegeAdmission {
       else
         out.print( "DENIED " );
         out.println();
-
       }
     }

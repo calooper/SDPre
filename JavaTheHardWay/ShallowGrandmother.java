@@ -24,8 +24,5 @@ public class ShallowGrandmother {
       allowed = ( happiness >= 7 && age > 25 && age < 40 && (income > 50000 || cute >= 8.5 ) );
 
       System.out.println( "Allowed to date my grandchild? " + allowed );
-
-
-
     }
   }

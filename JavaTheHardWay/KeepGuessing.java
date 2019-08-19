@@ -20,5 +20,6 @@ public class KeepGuessing {
       }
 
       System.out.println( "That is right! You're a good guesser. " );
+        
     }
   }

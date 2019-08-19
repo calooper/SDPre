@@ -38,6 +38,5 @@ public class BooleanExpressions {
       //not equal to !=
       //greater than or equal >=
       //less than or equal <=
-
     }
   }

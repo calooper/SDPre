@@ -54,5 +54,6 @@ public class RandomNumbers{
       System.out.println( "0-9.99:\t" + r );
       System.out.println( "0-9:\t" + (int)r );
       System.out.println( "1-10:\t" + (1 + (int)r) );
+        
     }
   }
