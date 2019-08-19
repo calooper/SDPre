@@ -27,5 +27,6 @@ public class SafeSquareRoot {
       y = Math.sqrt(x);
 
       System.out.println( "The square root of " + x + " is " + y );
+        
     }
   }
