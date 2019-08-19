@@ -14,6 +14,5 @@ public class SecretWord {
       else {
         System.out.println( "No, the secret word isnt \"" + guess + "\"." );
       }
-
     }
   }
