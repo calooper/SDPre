@@ -49,6 +49,5 @@ public class VariablesChangeShortcuts {
     i = 5;
     i+= 5;
     System.out.println(i);
-
   }
 }
