@@ -21,5 +21,6 @@ public class PigDiceComputer {
       } while ( roll != 1 && total < 20 );
 
       System.out.println( "Computer ends the round with " + total + " points. " ) ;
+        
   }
 }
