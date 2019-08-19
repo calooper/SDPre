@@ -48,6 +48,5 @@ public class ThirtyDays{
       }
 
       System.out.println( days + " days hath " + monthName );
-
   }
 }
