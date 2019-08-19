@@ -18,5 +18,6 @@ public class Sequencing {
     System.out.println( "Item price:\t" + price );
     System.out.println( "Sales tax:\t" + salesTax );
     System.out.println( "Total cost:\t" + total );
+    
   }
 }
